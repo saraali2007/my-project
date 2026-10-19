@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- dome -->
+    <path android:fillColor="#FFFFFFFF" android:pathData="M37,50 A17,17 0 0 1 71,50 Z" />
+    <!-- top cap -->
+    <path android:fillColor="#FFFFFFFF" android:pathData="M49,29 h10 v6 h-10 z" />
+    <!-- body -->
+    <path android:fillColor="#FFFFFFFF" android:pathData="M40,48 h28 v32 h-28 z" />
+    <!-- side nozzles -->
+    <path android:fillColor="#FFFFFFFF" android:pathData="M29,55 h11 v11 h-11 z" />
+    <path android:fillColor="#FFFFFFFF" android:pathData="M68,55 h11 v11 h-11 z" />
+    <!-- base -->
+    <path android:fillColor="#FFFFFFFF" android:pathData="M35,80 h38 v6 h-38 z" />
+    <!-- front outlet -->
+    <path android:fillColor="#FFC62828" android:pathData="M54,60 m-5,0 a5,5 0 1 0 10,0 a5,5 0 1 0 -10,0" />
+    <!-- band -->
+    <path android:fillColor="#FFC62828" android:pathData="M40,70 h28 v2 h-28 z" />
+</vector>

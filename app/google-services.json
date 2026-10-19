@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "755511313044",
+    "project_id": "fire-inspection-b1c5a",
+    "storage_bucket": "fire-inspection-b1c5a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755511313044:android:4f6173eeceb5df31cf6a81",
+        "android_client_info": {
+          "package_name": "com.zfod.fireinspect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf9AUC1sW7EqqjjbBxK26bL_y9BzM5NIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

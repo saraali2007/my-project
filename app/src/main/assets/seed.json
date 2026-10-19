@@ -1,0 +1,4052 @@
+[
+{
+"id": "S-A-01",
+"shift": "A",
+"tagBox": "SS-223",
+"hydrantTag": "SS-023",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20705,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-A-02",
+"shift": "A",
+"tagBox": "SS-224",
+"hydrantTag": "SS-024",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20705,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-A-03",
+"shift": "A",
+"tagBox": "SS-232",
+"hydrantTag": "SS-032",
+"status": "NO",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20705,
+"timeMin": null,
+"remarks": "valve stuck",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-A-04",
+"shift": "A",
+"tagBox": "SS-233",
+"hydrantTag": "SS-033",
+"status": "NO",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20705,
+"timeMin": null,
+"remarks": "valve stuck",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-A-05",
+"shift": "A",
+"tagBox": "SS-234",
+"hydrantTag": "SS-034",
+"status": "NO",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20705,
+"timeMin": null,
+"remarks": "Leaking hydrant /Valve stuck",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-A-06",
+"shift": "A",
+"tagBox": "SS-235",
+"hydrantTag": "SS-035",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20705,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-A-07",
+"shift": "A",
+"tagBox": "SS-236",
+"hydrantTag": "SS-036",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20705,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-A-08",
+"shift": "A",
+"tagBox": "SS-272",
+"hydrantTag": "SS-072",
+"status": "OK",
+"notes": "",
+"counts": [
+1,
+2,
+2,
+2,
+1,
+2,
+1,
+2
+],
+"epochDay": 20705,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-A-09",
+"shift": "A",
+"tagBox": "SS-273",
+"hydrantTag": "SS-073",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20705,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-A-10",
+"shift": "A",
+"tagBox": "SS-274",
+"hydrantTag": "SS-074",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20705,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-A-11",
+"shift": "A",
+"tagBox": "SS-275",
+"hydrantTag": "SS-075",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+1,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20705,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-A-12",
+"shift": "A",
+"tagBox": "SS-291",
+"hydrantTag": "SS-091",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20705,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-A-13",
+"shift": "A",
+"tagBox": "SS-292",
+"hydrantTag": "SS-092",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20705,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-A-14",
+"shift": "A",
+"tagBox": "SS-293",
+"hydrantTag": "SS-093",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20705,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-A-15",
+"shift": "A",
+"tagBox": "SS-294",
+"hydrantTag": "SS-094",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20705,
+"timeMin": null,
+"remarks": "Main Valve Stuck/Valve Stuck",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-A-16",
+"shift": "A",
+"tagBox": "SS-295",
+"hydrantTag": "SS-095",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20705,
+"timeMin": null,
+"remarks": "adapter handle missing",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-A-17",
+"shift": "A",
+"tagBox": "SS-296",
+"hydrantTag": "SS-096",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20705,
+"timeMin": null,
+"remarks": "adapter handle missing",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-A-18",
+"shift": "A",
+"tagBox": "SS-297",
+"hydrantTag": "SS-097",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20705,
+"timeMin": null,
+"remarks": "main valve passing",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-A-19",
+"shift": "A",
+"tagBox": "SS-298",
+"hydrantTag": "SS-098",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20705,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-A-20",
+"shift": "A",
+"tagBox": "SS-299",
+"hydrantTag": "SS-099",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20705,
+"timeMin": null,
+"remarks": "stuck valve",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-A-21",
+"shift": "A",
+"tagBox": "SS-300",
+"hydrantTag": "SS-100",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20705,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-A-22",
+"shift": "A",
+"tagBox": "SS-303",
+"hydrantTag": "SS-103",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20705,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-A-23",
+"shift": "A",
+"tagBox": "SS-304",
+"hydrantTag": "SS-104",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20705,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-A-24",
+"shift": "A",
+"tagBox": "SS-305",
+"hydrantTag": "SS-105",
+"status": "NO",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20705,
+"timeMin": null,
+"remarks": "Main Valve Stuck/Valve Stuck",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-A-25",
+"shift": "A",
+"tagBox": "SS-306",
+"hydrantTag": "SS-106",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20705,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-A-26",
+"shift": "A",
+"tagBox": "SS-307",
+"hydrantTag": "SS-107",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20705,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-A-27",
+"shift": "A",
+"tagBox": "SS-308",
+"hydrantTag": "SS-108",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20705,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-A-28",
+"shift": "A",
+"tagBox": "SS-343",
+"hydrantTag": "SS-143",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20705,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-A-29",
+"shift": "A",
+"tagBox": "SS-344",
+"hydrantTag": "SS-144",
+"status": "OK",
+"notes": "",
+"counts": [
+1,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20705,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-A-30",
+"shift": "A",
+"tagBox": "SS-345",
+"hydrantTag": "SS-145",
+"status": "OK",
+"notes": "",
+"counts": [
+1,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20705,
+"timeMin": null,
+"remarks": "passing",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-A-31",
+"shift": "A",
+"tagBox": "SS-346",
+"hydrantTag": "SS-146",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20705,
+"timeMin": null,
+"remarks": "maim valve passing",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-A-32",
+"shift": "A",
+"tagBox": "SS-347",
+"hydrantTag": "SS-147",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20705,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-A-33",
+"shift": "A",
+"tagBox": "SS-348",
+"hydrantTag": "SS-148",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20705,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-A-34",
+"shift": "A",
+"tagBox": "SS-349",
+"hydrantTag": "SS149",
+"status": "NO",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20705,
+"timeMin": null,
+"remarks": "passing -cap missing",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-A-35",
+"shift": "A",
+"tagBox": "SS-350",
+"hydrantTag": "SS-150",
+"status": "NO",
+"notes": "",
+"counts": [
+0,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20705,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-B-01",
+"shift": "B",
+"tagBox": "SS-270",
+"hydrantTag": "SS-070",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20704,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-B-02",
+"shift": "B",
+"tagBox": "SS-271",
+"hydrantTag": "SS-071",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20704,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-B-03",
+"shift": "B",
+"tagBox": "SS-276",
+"hydrantTag": "SS-076",
+"status": "NO",
+"notes": "Replacing a worn gasket in the lever tongue",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+1
+],
+"epochDay": 20704,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-B-04",
+"shift": "B",
+"tagBox": "SS-277",
+"hydrantTag": "SS-077",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20704,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-B-05",
+"shift": "B",
+"tagBox": "SS-278",
+"hydrantTag": "SS-078",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20704,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-B-06",
+"shift": "B",
+"tagBox": "SS-279",
+"hydrantTag": "SS-079",
+"status": "NA",
+"notes": "",
+"counts": [
+2,
+1,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20704,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-B-07",
+"shift": "B",
+"tagBox": "SS-280",
+"hydrantTag": "SS-080",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20704,
+"timeMin": null,
+"remarks": "Valve Cap Missing",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-B-08",
+"shift": "B",
+"tagBox": "SS-281",
+"hydrantTag": "SS-081",
+"status": "NO",
+"notes": "Replacing a worn gasket in the lever tongue",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20704,
+"timeMin": null,
+"remarks": "A break in the control lever of a half valve with damage to the lever tongue.",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-B-09",
+"shift": "B",
+"tagBox": "SS-282",
+"hydrantTag": "SS-082",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20704,
+"timeMin": null,
+"remarks": "Replacing a worn gasket in the lever tongue",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-B-10",
+"shift": "B",
+"tagBox": "SS-283",
+"hydrantTag": "SS-083",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+0,
+2,
+2,
+1,
+2
+],
+"epochDay": 20704,
+"timeMin": null,
+"remarks": "Replacement of a faulty connection gasket",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-B-11",
+"shift": "B",
+"tagBox": "SS-284",
+"hydrantTag": "SS-084",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20732,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-B-12",
+"shift": "B",
+"tagBox": "SS-285",
+"hydrantTag": "SS-085",
+"status": "NO",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20704,
+"timeMin": null,
+"remarks": "paisshng /Isolated",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-B-13",
+"shift": "B",
+"tagBox": "SS-286",
+"hydrantTag": "SS-086",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20704,
+"timeMin": null,
+"remarks": "You need a gasket/isloated",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-B-14",
+"shift": "B",
+"tagBox": "SS-287",
+"hydrantTag": "SS-087",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20704,
+"timeMin": null,
+"remarks": "Isolated broken tongue of the half-valve lever",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-B-15",
+"shift": "B",
+"tagBox": "SS-288",
+"hydrantTag": "SS-088",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20704,
+"timeMin": null,
+"remarks": "You need a gasket",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-B-16",
+"shift": "B",
+"tagBox": "SS-289",
+"hydrantTag": "SS-089",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20704,
+"timeMin": null,
+"remarks": "You need a gasket",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-B-17",
+"shift": "B",
+"tagBox": "SS-290",
+"hydrantTag": "SS-090",
+"status": "NO",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20704,
+"timeMin": null,
+"remarks": "Valve Cap Missing/isoleted",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-B-18",
+"shift": "B",
+"tagBox": "SS-301",
+"hydrantTag": "SS-101",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20704,
+"timeMin": null,
+"remarks": "Gasket replacement is needed",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-B-19",
+"shift": "B",
+"tagBox": "SS-302",
+"hydrantTag": "SS-102",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20704,
+"timeMin": null,
+"remarks": "Gasket replacement is needed",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-B-20",
+"shift": "B",
+"tagBox": "SS-323",
+"hydrantTag": "SS-123",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20704,
+"timeMin": null,
+"remarks": "Replacing the main valve gasket/lubricating the valve is necessary.",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-B-21",
+"shift": "B",
+"tagBox": "SS-324",
+"hydrantTag": "SS-124",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20704,
+"timeMin": null,
+"remarks": "Replacing the main valve gasket/lubricating the valve is necessary.",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-B-22",
+"shift": "B",
+"tagBox": "SS-325",
+"hydrantTag": "SS-125",
+"status": "NO",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20704,
+"timeMin": null,
+"remarks": "passing",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-B-23",
+"shift": "B",
+"tagBox": "SS-326",
+"hydrantTag": "SS-126",
+"status": "NO",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20704,
+"timeMin": null,
+"remarks": "Replacing the main valve gasket/lubricating the valve is necessary.",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-B-24",
+"shift": "B",
+"tagBox": "SS-327",
+"hydrantTag": "SS-127",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20704,
+"timeMin": null,
+"remarks": "You need to add a connection along with the presence of the half-valve valve base, and you also need to lubricate the main valve.",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-B-25",
+"shift": "B",
+"tagBox": "SS-328",
+"hydrantTag": "SS-128",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20704,
+"timeMin": null,
+"remarks": "pahssing / The lever tongue broke, as did the main valve stem.",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-B-26",
+"shift": "B",
+"tagBox": "SS-329",
+"hydrantTag": "SS-129",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20704,
+"timeMin": null,
+"remarks": "The lever tongue of the half-valve valve is broken.",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-B-27",
+"shift": "B",
+"tagBox": "SS-330",
+"hydrantTag": "SS-130",
+"status": "NO",
+"notes": "",
+"counts": [
+2,
+1,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20704,
+"timeMin": null,
+"remarks": "pahsshng vailve",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-B-28",
+"shift": "B",
+"tagBox": "SS-332",
+"hydrantTag": "SS-132",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20704,
+"timeMin": null,
+"remarks": "The valve stem also needs replacing; the gasket needs replacing.",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-B-29",
+"shift": "B",
+"tagBox": "SS-333",
+"hydrantTag": "SS-133",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20704,
+"timeMin": null,
+"remarks": "you need gazket /broken tha main vailve",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-B-30",
+"shift": "B",
+"tagBox": "SS-334",
+"hydrantTag": "SS-134",
+"status": "NO",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20704,
+"timeMin": null,
+"remarks": "izoleted and need Lack of connection related to the half valve",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-B-31",
+"shift": "B",
+"tagBox": "SS-335",
+"hydrantTag": "SS-135",
+"status": "NO",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20704,
+"timeMin": null,
+"remarks": "A break in the lever tongue with a deficiency/cap",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-B-32",
+"shift": "B",
+"tagBox": "SS-336",
+"hydrantTag": "SS-136",
+"status": "NO",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20704,
+"timeMin": null,
+"remarks": "You need to add a half-valve connector.",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-B-33",
+"shift": "B",
+"tagBox": "SS-337",
+"hydrantTag": "SS-137",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20704,
+"timeMin": null,
+"remarks": "It needs cleaning",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-B-34",
+"shift": "B",
+"tagBox": "SS-338",
+"hydrantTag": "SS-138",
+"status": "NO",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+1
+],
+"epochDay": 20704,
+"timeMin": null,
+"remarks": "It needs cleaning  and izoleted",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-B-35",
+"shift": "B",
+"tagBox": "SS-339",
+"hydrantTag": "SS-139",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+1,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20704,
+"timeMin": null,
+"remarks": "It needs cleaning",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-B-36",
+"shift": "B",
+"tagBox": "SS-342",
+"hydrantTag": "SS-142",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20704,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-01",
+"shift": "C",
+"tagBox": "SS-225",
+"hydrantTag": "SS-025",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-02",
+"shift": "C",
+"tagBox": "SS-226",
+"hydrantTag": "SS-026",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-03",
+"shift": "C",
+"tagBox": "SS-227",
+"hydrantTag": "SS-027",
+"status": "NO",
+"notes": "",
+"counts": [
+1,
+1,
+1,
+1,
+1,
+1,
+0,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-04",
+"shift": "C",
+"tagBox": "SS-228",
+"hydrantTag": "SS-028",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+null
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-05",
+"shift": "C",
+"tagBox": "SS-229",
+"hydrantTag": "SS-029",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-06",
+"shift": "C",
+"tagBox": "SS-230",
+"hydrantTag": "SS-030",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-07",
+"shift": "C",
+"tagBox": "SS-231",
+"hydrantTag": "SS-031",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-08",
+"shift": "C",
+"tagBox": "SS-237",
+"hydrantTag": "SS-037",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-09",
+"shift": "C",
+"tagBox": "SS-238",
+"hydrantTag": "SS-038",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-10",
+"shift": "C",
+"tagBox": "SS-239",
+"hydrantTag": "SS-039",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-11",
+"shift": "C",
+"tagBox": "SS-240",
+"hydrantTag": "SS-040",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-12",
+"shift": "C",
+"tagBox": "SS-241",
+"hydrantTag": "SS-041",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-13",
+"shift": "C",
+"tagBox": "SS-242",
+"hydrantTag": "SS-042",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-14",
+"shift": "C",
+"tagBox": "SS-243",
+"hydrantTag": "SS-043",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-15",
+"shift": "C",
+"tagBox": "SS-244",
+"hydrantTag": "SS-044",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-16",
+"shift": "C",
+"tagBox": "SS-245",
+"hydrantTag": "SS-045",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-17",
+"shift": "C",
+"tagBox": "SS-246",
+"hydrantTag": "SS-046",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-18",
+"shift": "C",
+"tagBox": "SS-247",
+"hydrantTag": "SS-047",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-19",
+"shift": "C",
+"tagBox": "SS-248",
+"hydrantTag": "SS-048",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-20",
+"shift": "C",
+"tagBox": "SS-249",
+"hydrantTag": "SS-049",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-21",
+"shift": "C",
+"tagBox": "SS-250",
+"hydrantTag": "SS-050",
+"status": "NO",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-22",
+"shift": "C",
+"tagBox": "SS-251",
+"hydrantTag": "SS-051",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-23",
+"shift": "C",
+"tagBox": "SS-252",
+"hydrantTag": "SS-052",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-24",
+"shift": "C",
+"tagBox": "SS-253",
+"hydrantTag": "SS-053",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-25",
+"shift": "C",
+"tagBox": "SS-254",
+"hydrantTag": "SS-054",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-26",
+"shift": "C",
+"tagBox": "SS-309",
+"hydrantTag": "SS-109",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-27",
+"shift": "C",
+"tagBox": "SS-310",
+"hydrantTag": "SS-110",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-28",
+"shift": "C",
+"tagBox": "SS-311",
+"hydrantTag": "SS-111",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-29",
+"shift": "C",
+"tagBox": "SS-312",
+"hydrantTag": "SS-112",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-30",
+"shift": "C",
+"tagBox": "SS-313",
+"hydrantTag": "SS-113",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-31",
+"shift": "C",
+"tagBox": "SS-314",
+"hydrantTag": "SS-114",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-32",
+"shift": "C",
+"tagBox": "SS-315",
+"hydrantTag": "SS-115",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-33",
+"shift": "C",
+"tagBox": "SS-316",
+"hydrantTag": "SS-116",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-34",
+"shift": "C",
+"tagBox": "SS-317",
+"hydrantTag": "SS-117",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-35",
+"shift": "C",
+"tagBox": "SS-318",
+"hydrantTag": "SS-118",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-36",
+"shift": "C",
+"tagBox": "SS-319",
+"hydrantTag": "SS-119",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-37",
+"shift": "C",
+"tagBox": "SS-320",
+"hydrantTag": "SS-120",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-38",
+"shift": "C",
+"tagBox": "SS-321",
+"hydrantTag": "SS-121",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-39",
+"shift": "C",
+"tagBox": "SS-322",
+"hydrantTag": "SS-122",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-40",
+"shift": "C",
+"tagBox": "SS-331",
+"hydrantTag": "SS-131",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "you need gazket /broken tha main vailve",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-41",
+"shift": "C",
+"tagBox": "SS-340",
+"hydrantTag": "SS-140",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "It needs cleaning",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-C-42",
+"shift": "C",
+"tagBox": "SS-341",
+"hydrantTag": "SS-141",
+"status": "NO",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20706,
+"timeMin": null,
+"remarks": "It needs cleaning",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-D-01",
+"shift": "D",
+"tagBox": "SS-201",
+"hydrantTag": "SS-001",
+"status": "NO",
+"notes": "It needs to be painted   and numbered.",
+"counts": [
+2,
+2,
+2,
+2,
+1,
+2,
+1,
+2
+],
+"epochDay": 20703,
+"timeMin": null,
+"remarks": "Valve Cap Missing and it is not open",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-D-02",
+"shift": "D",
+"tagBox": "SS-202",
+"hydrantTag": "SS-002",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20703,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-D-03",
+"shift": "D",
+"tagBox": "SS-203",
+"hydrantTag": "SS-003",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+1,
+2,
+1,
+2
+],
+"epochDay": 20703,
+"timeMin": null,
+"remarks": "adaptor is used   There is a leak in the valve.",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-D-04",
+"shift": "D",
+"tagBox": "SS-204",
+"hydrantTag": "SS-004",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20703,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-D-05",
+"shift": "D",
+"tagBox": "SS-205",
+"hydrantTag": "SS-005",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20703,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-D-06",
+"shift": "D",
+"tagBox": "SS-206",
+"hydrantTag": "SS-006",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20703,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-D-07",
+"shift": "D",
+"tagBox": "SS-207",
+"hydrantTag": "SS-007",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20703,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-D-08",
+"shift": "D",
+"tagBox": "SS-208",
+"hydrantTag": "SS-008",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20703,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-D-09",
+"shift": "D",
+"tagBox": "SS-209",
+"hydrantTag": "SS-009",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20703,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-D-10",
+"shift": "D",
+"tagBox": "SS-210",
+"hydrantTag": "SS-010",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+1
+],
+"epochDay": 20703,
+"timeMin": null,
+"remarks": "key connection is missing",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-D-11",
+"shift": "D",
+"tagBox": "SS-211",
+"hydrantTag": "SS-011",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20703,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-D-12",
+"shift": "D",
+"tagBox": "SS-212",
+"hydrantTag": "SS-012",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20703,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-D-13",
+"shift": "D",
+"tagBox": "SS-213",
+"hydrantTag": "SS-013",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20703,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-D-14",
+"shift": "D",
+"tagBox": "SS-214",
+"hydrantTag": "SS-014",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20703,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-D-15",
+"shift": "D",
+"tagBox": "SS-215",
+"hydrantTag": "SS-015",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20703,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-D-16",
+"shift": "D",
+"tagBox": "SS-216",
+"hydrantTag": "SS-016",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20703,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-D-17",
+"shift": "D",
+"tagBox": "SS-217",
+"hydrantTag": "SS-017",
+"status": "NO",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20703,
+"timeMin": null,
+"remarks": "There is a leak in the valve.",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-D-18",
+"shift": "D",
+"tagBox": "SS-218",
+"hydrantTag": "SS-018",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20703,
+"timeMin": null,
+"remarks": "Valve Cap Missing",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-D-19",
+"shift": "D",
+"tagBox": "SS-219",
+"hydrantTag": "SS-019",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20703,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-D-20",
+"shift": "D",
+"tagBox": "SS-220",
+"hydrantTag": "SS-020",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20703,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-D-21",
+"shift": "D",
+"tagBox": "SS-221",
+"hydrantTag": "SS-021",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20703,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-D-22",
+"shift": "D",
+"tagBox": "SS-222",
+"hydrantTag": "SS-022",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20703,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-D-23",
+"shift": "D",
+"tagBox": "SS-255",
+"hydrantTag": "SS-055",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20703,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-D-24",
+"shift": "D",
+"tagBox": "SS-256",
+"hydrantTag": "SS-056",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+1
+],
+"epochDay": 20703,
+"timeMin": null,
+"remarks": "valve cap is missing",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-D-25",
+"shift": "D",
+"tagBox": "SS-257",
+"hydrantTag": "SS-057",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20703,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-D-26",
+"shift": "D",
+"tagBox": "SS-258",
+"hydrantTag": "SS-058",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20703,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-D-27",
+"shift": "D",
+"tagBox": "SS-259",
+"hydrantTag": "SS-059",
+"status": "NO",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20703,
+"timeMin": null,
+"remarks": "There is a leak in the valve.",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-D-28",
+"shift": "D",
+"tagBox": "SS-260",
+"hydrantTag": "SS-060",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20703,
+"timeMin": null,
+"remarks": "valve cap is missing",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-D-29",
+"shift": "D",
+"tagBox": "SS-261",
+"hydrantTag": "SS-061",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20703,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-D-30",
+"shift": "D",
+"tagBox": "SS-262",
+"hydrantTag": "SS-062",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20703,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-D-31",
+"shift": "D",
+"tagBox": "SS-263",
+"hydrantTag": "SS-063",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+1
+],
+"epochDay": 20703,
+"timeMin": null,
+"remarks": "key connection is missing",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-D-32",
+"shift": "D",
+"tagBox": "SS-264",
+"hydrantTag": "SS-064",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20703,
+"timeMin": null,
+"remarks": "Valve Cap Missing",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-D-33",
+"shift": "D",
+"tagBox": "SS-265",
+"hydrantTag": "SS-065",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20703,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-D-34",
+"shift": "D",
+"tagBox": "SS-266",
+"hydrantTag": "SS-066",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20703,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-D-35",
+"shift": "D",
+"tagBox": "SS-267",
+"hydrantTag": "SS-067",
+"status": "NA",
+"notes": "",
+"counts": [
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+],
+"epochDay": 20703,
+"timeMin": null,
+"remarks": "Not available",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-D-36",
+"shift": "D",
+"tagBox": "SS-268",
+"hydrantTag": "SS-068",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20703,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+},
+{
+"id": "S-D-37",
+"shift": "D",
+"tagBox": "SS-269",
+"hydrantTag": "SS-069",
+"status": "OK",
+"notes": "",
+"counts": [
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+2
+],
+"epochDay": 20703,
+"timeMin": null,
+"remarks": "",
+"location": "",
+"photos": [
+"",
+"",
+""
+]
+}
+]
